@@ -1,0 +1,9 @@
+This repository contains examples and coding exercises from Section 1 of the course. Topics covered in this section include:
+- Coding standards
+- Input and output operations
+- Variables and data types
+- Compilation and runtime errors
+- Special characters
+- String formatting techniques
+- Using mathematical operators with strings
+- Data type conversions
