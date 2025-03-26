@@ -1,0 +1,6 @@
+This repository contains examples and coding exercises from Section 2 of the course. Topics covered in this section include:
+- Logical and comparison operators
+- Conditional statements
+- Basic string methods
+- Mathematical operators and decrease-increase operations
+- Use of random class
